@@ -1,0 +1,31 @@
+.edit{
+  color: black;  
+  background-color: white;
+  border-radius: 10px;
+  padding: 30px;
+  margin: 15px;
+  border: 1px solid black;
+  }
+  .btn{
+    color: white;
+    background-color: black;
+    font-size: 50px;
+    margin: 15px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .App{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+  }
+  .imgsize{
+    width: 400px;
+    height: 300px;
+  }
+  span{
+    color: white;
+    font-size: 3em;
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 50px;
+  }
